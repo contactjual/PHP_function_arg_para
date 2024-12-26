@@ -12,5 +12,4 @@ function new_function ( int $first, int $second, int $third) {
 }
 // new_function(2, 4, "5"); // error: couse third argument must be a int type data
 
-
-?>
+// #41 to ....
